@@ -23,3 +23,29 @@ Profissionais autônomos da área da estética muitas vezes realizam o controle 
 # Solução
 
 Desenvolvimento de uma aplicação web para centralizar o controle financeiro da profissional, automatizando cálculos e organizando as principais informações do negócio de forma simples e intuitiva.
+
+---
+
+# Funcionalidades
+
+*  Registro de procedimentos realizados
+*  Controle de faturamento
+*  Organização de receitas
+*  Cálculo automático de valores
+*  Visualização dos resultados financeiros
+*  Atualização dinâmica das informações
+*  Integração com Google Sheets para armazenamento dos dados
+*  Interface simples, intuitiva e responsiva
+
+---
+
+# Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Google Sheets (armazenamento dos dados)
+* Git
+* GitHub
+
+
